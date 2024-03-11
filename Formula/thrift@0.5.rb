@@ -1,7 +1,7 @@
 class ThriftAT05 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org/"
-  url "http://archive.apache.org/dist/incubator/thrift/0.5.0-incubating/thrift-0.5.0.tar.gh"
+  url "http://archive.apache.org/dist/incubator/thrift/0.5.0-incubating/thrift-0.5.0.tar.gz"
   sha256 "9ba5655a1b995db5f9c61c05ff8e3a8d2cafb254ad9d5b2f153ac8a8406f7b2a"
   license "Apache-2.0"
 
