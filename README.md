@@ -5,14 +5,14 @@ These old versions of Formulas need to be compiled, and no bottle is provided.
 
 ## How do I install these formulae?
 
-`brew install cartman-kai/thrift/<formula>`
+`brew install shalk/thrift/<formula>`
 
-Or `brew tap cartman-kai/thrift` and then `brew install <formula>`.
+Or `brew tap shalk/thrift` and then `brew install <formula>`.
 
 Install thrift@0.11
 
 ```shell
-brew tap cartman-kai/thrift
+brew tap shalk/thrift
 brew install thrift@0.11
 ```
 
@@ -54,7 +54,7 @@ If you want install thrift with some language, use `brew edit <formual>`, modify
 
 
 ```
-brew edit cartman-kai/thrift/thrift@0.11
+brew edit shalk/thrift/thrift@0.11
 ```
 
 thrift default enable support languages, so modify without-\<language\> line like this.
