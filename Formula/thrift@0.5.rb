@@ -1,4 +1,4 @@
-class ThriftAT010 < Formula
+class ThriftAT05 < Formula
   desc "Framework for scalable cross-language services development"
   homepage "https://thrift.apache.org/"
   url "http://archive.apache.org/dist/incubator/thrift/0.5.0-incubating/thrift-0.5.0.tar.gh"
